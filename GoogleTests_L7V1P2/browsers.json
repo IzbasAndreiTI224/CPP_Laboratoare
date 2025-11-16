@@ -1,0 +1,25 @@
+﻿{
+  "browsers": [
+    {
+      "name": "windows_chrome",
+      "os": "Windows",
+      "osVersion": "10",
+      "browserName": "Chrome",
+      "browserVersion": "120.0"
+    },
+    {
+      "name": "mac_safari",
+      "os": "OS X",
+      "osVersion": "Monterey",
+      "browserName": "Safari",
+      "browserVersion": "15.6"
+    },
+    {
+      "name": "iphone",
+      "deviceName": "iPhone 13",
+      "osVersion": "15",
+      "browserName": "Chrome",
+      "deviceOrientation": "portrait"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|d:\\laboratoare\\googletests \u2014 \u043A\u043E\u043F\u0438\u044F\\pages\\googlepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|solutionrelative:pages\\googlepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|d:\\laboratoare\\googletests \u2014 \u043A\u043E\u043F\u0438\u044F\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|d:\\laboratoare\\googletests \u2014 \u043A\u043E\u043F\u0438\u044F\\support\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|solutionrelative:support\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|d:\\laboratoare\\googletests \u2014 \u043A\u043E\u043F\u0438\u044F\\stepdefinitions\\googlesearchsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|solutionrelative:stepdefinitions\\googlesearchsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|d:\\laboratoare\\googletests \u2014 \u043A\u043E\u043F\u0438\u044F\\support\\locators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|solutionrelative:support\\locators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|d:\\laboratoare\\googletests \u2014 \u043A\u043E\u043F\u0438\u044F\\stepdefinitions\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|solutionrelative:stepdefinitions\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|d:\\laboratoare\\googletests \u2014 \u043A\u043E\u043F\u0438\u044F\\stepdefinitions\\genericvalidationsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|solutionrelative:stepdefinitions\\genericvalidationsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|d:\\laboratoare\\googletests \u2014 \u043A\u043E\u043F\u0438\u044F\\browsers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|solutionrelative:browsers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|d:\\laboratoare\\googletests \u2014 \u043A\u043E\u043F\u0438\u044F\\reports\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|solutionrelative:reports\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|d:\\laboratoare\\googletests \u2014 \u043A\u043E\u043F\u0438\u044F\\features\\google_search.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|solutionrelative:features\\google_search.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|d:\\laboratoare\\googletests \u2014 \u043A\u043E\u043F\u0438\u044F\\googletests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|solutionrelative:googletests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|d:\\laboratoare\\googletests \u2014 \u043A\u043E\u043F\u0438\u044F\\specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22CE881B-84FF-4C3A-8886-88493E06AA13}|GoogleTests.csproj|solutionrelative:specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "browsers.json",
+              "DocumentMoniker": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\browsers.json",
+              "RelativeDocumentMoniker": "browsers.json",
+              "ToolTip": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\browsers.json",
+              "RelativeToolTip": "browsers.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T22:01:15.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T19:40:32.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\Support\\Driver.cs",
+              "RelativeDocumentMoniker": "Support\\Driver.cs",
+              "ToolTip": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\Support\\Driver.cs",
+              "RelativeToolTip": "Support\\Driver.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAwH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:39:03.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Locators.cs",
+              "DocumentMoniker": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\Support\\Locators.cs",
+              "RelativeDocumentMoniker": "Support\\Locators.cs",
+              "ToolTip": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\Support\\Locators.cs",
+              "RelativeToolTip": "Support\\Locators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:39:19.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoogleSearchSteps.cs",
+              "DocumentMoniker": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\StepDefinitions\\GoogleSearchSteps.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\GoogleSearchSteps.cs",
+              "ToolTip": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\StepDefinitions\\GoogleSearchSteps.cs",
+              "RelativeToolTip": "StepDefinitions\\GoogleSearchSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:38:05.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GooglePage.cs",
+              "DocumentMoniker": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\Pages\\GooglePage.cs",
+              "RelativeDocumentMoniker": "Pages\\GooglePage.cs",
+              "ToolTip": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\Pages\\GooglePage.cs",
+              "RelativeToolTip": "Pages\\GooglePage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:38:52.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericValidationSteps.cs",
+              "DocumentMoniker": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\StepDefinitions\\GenericValidationSteps.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\GenericValidationSteps.cs",
+              "ToolTip": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\StepDefinitions\\GenericValidationSteps.cs",
+              "RelativeToolTip": "StepDefinitions\\GenericValidationSteps.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:38:17.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\StepDefinitions\\Hooks.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\Hooks.cs",
+              "ToolTip": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\StepDefinitions\\Hooks.cs",
+              "RelativeToolTip": "StepDefinitions\\Hooks.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEIAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:38:35.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\Reports\\dashboard.html",
+              "RelativeDocumentMoniker": "Reports\\dashboard.html",
+              "ToolTip": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\Reports\\dashboard.html",
+              "RelativeToolTip": "Reports\\dashboard.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-13T20:47:09.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GoogleTests.csproj",
+              "DocumentMoniker": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\GoogleTests.csproj",
+              "RelativeDocumentMoniker": "GoogleTests.csproj",
+              "ToolTip": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\GoogleTests.csproj",
+              "RelativeToolTip": "GoogleTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T19:41:23.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "google_search.feature",
+              "DocumentMoniker": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\Features\\google_search.feature",
+              "RelativeDocumentMoniker": "Features\\google_search.feature",
+              "ToolTip": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\Features\\google_search.feature",
+              "RelativeToolTip": "Features\\google_search.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T19:33:43.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "specflow.json",
+              "DocumentMoniker": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\specflow.json",
+              "RelativeDocumentMoniker": "specflow.json",
+              "ToolTip": "D:\\LABORATOARE\\GoogleTests \u2014 \u043A\u043E\u043F\u0438\u044F\\specflow.json",
+              "RelativeToolTip": "specflow.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T19:40:48.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHZeLSjjmfg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Almostanotherday\\Desktop\\CPP\\CPP_V8_C#\\LAB 5 CPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Almostanotherday\\.nuget\\packages\\selenium.webdriver\\4.38.0\\selenium.webdriver.4.38.0.nupkg.sha512",
+    "C:\\Users\\Almostanotherday\\.nuget\\packages\\selenium.webdriver.chromedriver\\142.0.7444.5900\\selenium.webdriver.chromedriver.142.0.7444.5900.nupkg.sha512"
+  ],
+  "logs": []
+}

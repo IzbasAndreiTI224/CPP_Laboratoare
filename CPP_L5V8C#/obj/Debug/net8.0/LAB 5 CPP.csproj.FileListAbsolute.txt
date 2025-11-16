@@ -1,0 +1,41 @@
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\bin\Debug\net8.0\LAB 5 CPP.exe
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\bin\Debug\net8.0\LAB 5 CPP.deps.json
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\bin\Debug\net8.0\LAB 5 CPP.runtimeconfig.json
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\bin\Debug\net8.0\LAB 5 CPP.dll
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\bin\Debug\net8.0\LAB 5 CPP.pdb
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\bin\Debug\net8.0\WebDriver.dll
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\bin\Debug\net8.0\runtimes\linux\native\selenium-manager
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\bin\Debug\net8.0\runtimes\osx\native\selenium-manager
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\bin\Debug\net8.0\runtimes\win\native\selenium-manager.exe
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\obj\Debug\net8.0\LAB 5 CPP.csproj.AssemblyReference.cache
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\obj\Debug\net8.0\LAB 5 CPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\obj\Debug\net8.0\LAB 5 CPP.AssemblyInfoInputs.cache
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\obj\Debug\net8.0\LAB 5 CPP.AssemblyInfo.cs
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\obj\Debug\net8.0\LAB 5 CPP.csproj.CoreCompileInputs.cache
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\obj\Debug\net8.0\LAB 5 CPP.csproj.Up2Date
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\obj\Debug\net8.0\LAB 5 CPP.dll
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\obj\Debug\net8.0\refint\LAB 5 CPP.dll
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\obj\Debug\net8.0\LAB 5 CPP.pdb
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\obj\Debug\net8.0\LAB 5 CPP.genruntimeconfig.cache
+C:\Users\Almostanotherday\Desktop\LAB 5 CPP\obj\Debug\net8.0\ref\LAB 5 CPP.dll
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\bin\Debug\net8.0\LAB 5 CPP.exe
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\bin\Debug\net8.0\LAB 5 CPP.deps.json
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\bin\Debug\net8.0\LAB 5 CPP.runtimeconfig.json
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\bin\Debug\net8.0\LAB 5 CPP.dll
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\bin\Debug\net8.0\LAB 5 CPP.pdb
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\bin\Debug\net8.0\WebDriver.dll
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\bin\Debug\net8.0\runtimes\linux\native\selenium-manager
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\bin\Debug\net8.0\runtimes\osx\native\selenium-manager
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\bin\Debug\net8.0\runtimes\win\native\selenium-manager.exe
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\obj\Debug\net8.0\LAB 5 CPP.csproj.AssemblyReference.cache
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\obj\Debug\net8.0\LAB 5 CPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\obj\Debug\net8.0\LAB 5 CPP.AssemblyInfoInputs.cache
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\obj\Debug\net8.0\LAB 5 CPP.AssemblyInfo.cs
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\obj\Debug\net8.0\LAB 5 CPP.csproj.CoreCompileInputs.cache
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\obj\Debug\net8.0\LAB 5 CPP.sourcelink.json
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\obj\Debug\net8.0\LAB 5 CPP.csproj.Up2Date
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\obj\Debug\net8.0\LAB 5 CPP.dll
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\obj\Debug\net8.0\refint\LAB 5 CPP.dll
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\obj\Debug\net8.0\LAB 5 CPP.pdb
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\obj\Debug\net8.0\LAB 5 CPP.genruntimeconfig.cache
+C:\Users\Almostanotherday\Desktop\CPP\CPP_V8_C#\obj\Debug\net8.0\ref\LAB 5 CPP.dll
